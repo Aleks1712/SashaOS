@@ -22,6 +22,7 @@ The goal is not to create a production-ready OS, but to explore:
 ## Current status
 
 This is an early-stage, work-in-progress project.  
+I am currently working on Windows, using WSL (Ubuntu) as my Linux environment and planning to use QEMU to experiment with bootloaders and my own OS builds.  
 Not everything works, and parts will change often as I learn and refactor.
 
 ## Why this repo exists
